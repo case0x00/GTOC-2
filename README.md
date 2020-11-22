@@ -1,6 +1,6 @@
-# [GTOC 2 – Multiple Asteroid Randezvous](https://sophia.estec.esa.int/gtoc_portal/?page_id=15)
+# [GTOC 2 – Multiple Asteroid Rendezvous](https://sophia.estec.esa.int/gtoc_portal/?page_id=15)
 
-second competition for the global trajectory optimization challege.
+solution to the second competition for the global trajectory optimization challege.
 
 ## goal
 
